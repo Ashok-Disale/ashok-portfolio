@@ -29,10 +29,12 @@ This website is built using **HTML**, **CSS**, and **JavaScript** to showcase my
 - **Contact Form**
 
 ## 📸 Screenshot  
- Ashok Disale.png
+![Ashok Disale](./Ashok%20Disale.png)
+
 
 ## 📄 Resume  
-📥 Ashok Disale.pdf
+📄 [View My Resume](./Ashok Disale.pdf)
+
 
 ## 📬 Contact Me
 - 💬 WhatsApp: [Click to chat](https://wa.me/9579392731)
