@@ -33,7 +33,8 @@ This website is built using **HTML**, **CSS**, and **JavaScript** to showcase my
 
 
 ## 📄 Resume  
-📄 [View My Resume](./Ashok Disale.pdf)
+👉 [Click here to view my Resume](./Ashok%20Disale.pdf)
+)
 
 
 ## 📬 Contact Me
